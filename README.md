@@ -2,8 +2,10 @@ $ pkg install python2 git
 
 $ pip2 install requests bs4
 
-$ git clone https://github.com/AkinXD/sunda
+$ pip2 install bs4
 
-$ cd sunda
+$ git clone https://github.com/AkinXD/Sunda
+
+$ cd Sunda
 
 $ python2 sunda.py
